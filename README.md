@@ -22,18 +22,18 @@ Kurumsal yapılarda müşteri taleplerinin dağınık iletilmesi, taleplerin kay
 
 ## 📱 Ekran Görüntüleri
 
-| Giriş Ekranı | Talep Oluşturma & AI | Yönetici İstatistikleri |
-##giriş ekranı
+
+## GİRİŞ EKRANI
 <img width="343" height="726" alt="image" src="https://github.com/user-attachments/assets/d68dadf0-5ff0-4066-be3f-90b6d95f4c02" />
-##talep ekranı
+## TALEP EKRANI
 <img width="341" height="734" alt="image" src="https://github.com/user-attachments/assets/eafb6f39-e779-4779-834a-fb503986ef24" />
-##talep listesi
+## TALEP LİSTESİ
 <img width="343" height="724" alt="image" src="https://github.com/user-attachments/assets/27c879bc-1ec1-4a35-86fe-948a9fa65980" />
-##admin ekranı
+## ADMİN EKRANI
 <img width="343" height="708" alt="image" src="https://github.com/user-attachments/assets/17d8de2c-3755-4c23-8c4e-282164cd9083" />
-##admin modül listesi
+## ADMİN MODÜL LİSTESİ
 <img width="354" height="703" alt="image" src="https://github.com/user-attachments/assets/c2dcb9f6-a5ca-41c5-bbc6-10580ccde96b" />
-##istatikler
+## İSTATİSTİKLER
 <img width="399" height="572" alt="image" src="https://github.com/user-attachments/assets/028e69aa-b1a7-4c93-87b0-b6c2fae3476c" />
 
 
