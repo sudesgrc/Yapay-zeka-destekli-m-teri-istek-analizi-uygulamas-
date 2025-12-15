@@ -23,11 +23,26 @@ Kurumsal yapılarda müşteri taleplerinin dağınık iletilmesi, taleplerin kay
 ## 📱 Ekran Görüntüleri
 
 | Giriş Ekranı | Talep Oluşturma & AI | Yönetici İstatistikleri |
-|:---:|:---:|:---:|
-| <img src="screenshots/giris.jpg" width="200"> | <img src="screenshots/ai-tahmin.jpg" width="200"> | <img src="screenshots/istatistik.jpg" width="200"> |<img width="341" height="697" alt="image" src="https://github.com/user-attachments/assets/ca42bcf7-9f89-4c97-9d9d-540c8af34144" />
+##giriş ekranı
+<img width="343" height="726" alt="image" src="https://github.com/user-attachments/assets/d68dadf0-5ff0-4066-be3f-90b6d95f4c02" />
+##talep ekranı
+<img width="341" height="734" alt="image" src="https://github.com/user-attachments/assets/eafb6f39-e779-4779-834a-fb503986ef24" />
+##talep listesi
+<img width="343" height="724" alt="image" src="https://github.com/user-attachments/assets/27c879bc-1ec1-4a35-86fe-948a9fa65980" />
+##admin ekranı
+<img width="343" height="708" alt="image" src="https://github.com/user-attachments/assets/17d8de2c-3755-4c23-8c4e-282164cd9083" />
+##admin modül listesi
+<img width="354" height="703" alt="image" src="https://github.com/user-attachments/assets/c2dcb9f6-a5ca-41c5-bbc6-10580ccde96b" />
+##istatikler
+<img width="399" height="572" alt="image" src="https://github.com/user-attachments/assets/028e69aa-b1a7-4c93-87b0-b6c2fae3476c" />
 
 
-*(Not: Projenize ait ekran görüntülerini `screenshots` klasörüne ekleyerek buradaki bağlantıları güncelleyebilirsiniz.)*
+
+
+
+
+
+
 
 ## 🛠️ Kullanılan Teknolojiler ve Bileşenler
 
@@ -60,10 +75,10 @@ Yönetici paneli, gelen taleplerin hangi modüllerde yoğunlaştığını göste
 
 ### 👤 Geliştirici
 
-* **Ad Soyad:** [Sude Sığırcı]
+* **Ad Soyad:** Sude Sığırcı
 * **Üniversite:** Konya Teknik Üniversitesi
 * **Bölüm:** Yazılım Mühendisliği
-* **İletişim:** [sudesgrc4646@gmail.com]
+* **İletişim:** sudesgrc4646@gmail.com
 
 ---
 *Bu proje, müşteri istek yönetim süreçlerini dijitalleştirmek ve akıllı hale getirmek amacıyla geliştirilmiştir.*
